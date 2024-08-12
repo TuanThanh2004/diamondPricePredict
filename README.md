@@ -32,4 +32,4 @@ Run app:
   straemlit run app.py
 ```
 
-Thanhyou for watchinh!!
+Thankyou for watchinh!!
