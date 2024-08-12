@@ -23,4 +23,9 @@ Library, Framework using:
 
 Aglorithm machine learning: Linear regression
 
+Use project: 
+```git clone
+Run app:
+```straemlit run app.py
+
 Thanhyou for watchinh!!
