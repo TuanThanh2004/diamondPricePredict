@@ -24,8 +24,8 @@ Library, Framework using:
 Aglorithm machine learning: Linear regression
 
 Use project: 
-```git clone
+```git clone https://github.com/TuanThanh2004/diamondPricePredict```
 Run app:
-```straemlit run app.py
+```straemlit run app.py```
 
 Thanhyou for watchinh!!
